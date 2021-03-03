@@ -1,6 +1,7 @@
 ﻿using BattleCards.Services;
 using SUS.HTTP;
 using SUS.MvcFramework;
+using System.Text;
 
 namespace BattleCards.Controllers
 {
